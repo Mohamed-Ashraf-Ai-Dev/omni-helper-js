@@ -1,0 +1,24 @@
+{
+  "name": "@omni-helper-js/omnihelper",
+  "version": "1.0.0",
+  "description": "A comprehensive JavaScript helper library for common tasks",
+  "main": "OmniHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helper",
+    "utils",
+    "javascript",
+    "omnihelper"
+  ],
+  "author": "Mohamed Ashraf",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/your-repo-name"
+  }
+}
